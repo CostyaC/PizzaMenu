@@ -1,0 +1,65 @@
+body {
+    background-color: greenyellow;}
+div.About_US{
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;}
+	div.mail{
+		background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;}
+	div.Menu{
+	background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;}
+	#Margarita{
+		color:red;}
+		
+		
+		#myId {
+  color: blue;
+}
+
+span.myClass {
+  color: yellow;
+}
+
+.myClass {
+  color: green;
+}
+
+span {
+  color: red;
+}
+#my ndId {background-color:yellow;}
+
+@media screen and (min-width: 651px) { #my ndId {background-color:red;}}
+
+@media screen and (max-width: 750px) { #my ndId {background-color:blue;}}
+
+@media screen and (min-width: 751px) { #my ndId {background-color:orange;}}
+
+@media screen and (max-width: 650px) { #my ndId {background-color:green;}}
+
+@media screen and (min-width: 651px) { #my ndId {background-color:red;}}
+
+@media screen and (max-width: 750px) { #my ndId {background-color:blue;}}
+
+@media screen and (min-width: 751px) { #my ndId {background-color:orange;}}
+
+@media screen and (max-width: 650px) { #my ndId {background-color:green;}}
